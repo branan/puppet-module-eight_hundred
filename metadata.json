@@ -1,8 +1,5 @@
 {
-  "checksums": {
-    "Modulefile": "1e780d794bcd6629dc3006129fc02edf"
-  },
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "types": [
 
   ],
@@ -12,8 +9,12 @@
   ],
   "summary": "800 modules! WOOOOOOO!",
   "source": "https://github.com/branan/puppet-module-eight_hundred",
+  "issues_url": "https://github.com/branan/puppet-module-eight_hundred/issues",
   "description": "800 modules! WOOOOOOOOOOOOOOOOOO!",
   "author": "Branan Purvine-Riley",
   "name": "branan-eight_hundred",
-  "project_page": "https://github.com/branan/puppet-module-eight_hundred"
+  "project_page": "https://github.com/branan/puppet-module-eight_hundred",
+  "operatingsystem_support": [
+
+  ]
 }
